@@ -6,13 +6,34 @@
   background-size: cover; margin:5%; text-align:justify }
 /* http://css-tricks.com/perfect-full-page-background-image/ */
 
-    p { text-indent: 1em; margin-top: .25em; margin-bottom: .25em;  }
+
+
+    p {line-height: 24px; padding-bottom: 25px; text-indent: 1em; margin-top: .25em; margin-bottom: .25em; font-family: sans-serif;}
+
+/* http://www.w3schools.com/cssref/sel_firstletter.asp */
+
+    p::first-letter {
+    font-size: 200%;
+    color: red;
+}
 
 
     @font-face {
 	font-family: Precious;
 	src: url("Fonts/precious/Precious.ttf") format("truetype");
 	}
+/*http://www.1001freefonts.com/precious.font  Applied to all headers even know only H6 there*/
+
+/* http://www.w3schools.com/css/css_image_gallery.asp */
+img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+}
 
 
 
