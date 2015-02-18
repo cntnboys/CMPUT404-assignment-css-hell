@@ -1,0 +1,61 @@
+
+    body { background: url(images/paper2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; margin:5%; text-align:justify }
+/* http://css-tricks.com/perfect-full-page-background-image/ */
+
+
+
+    p {line-height: 24px; padding-bottom: 25px; text-indent: 1em; margin-top: .25em; margin-bottom: .25em; font-style: oblique;}
+
+/* http://www.w3schools.com/cssref/sel_firstletter.asp */
+
+    p::first-letter {
+    font-size: 200%;
+    color: red;
+}
+
+
+    @font-face {
+	font-family: Precious;
+	src: url("Fonts/precious/Precious.ttf") format("truetype");
+	}
+/*http://www.1001freefonts.com/precious.font  Applied to all headers even know only H6 there*/
+
+/* http://www.w3schools.com/css/css_image_gallery.asp */
+img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+}
+
+
+
+    H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; font-family: Precious; font-size: 400%;}
+
+
+    hr  { width: 50%; text-align: center;}
+
+    .foot { margin-left: 20%; margin-right: 20%; text-align: justify; text-indent: -3em; font-size: 90%; }
+
+    blockquote {font-size: 97%; font-style: italic; margin-left: 10%; margin-right: 10%;}
+    .mynote    {background-color: #DDE; color: #000; padding: .5em; margin-left: 10%; margin-right: 10%; font-family: sans-serif; font-size: 95%;}
+    .toc       { margin-left: 10%; margin-bottom: .75em;}
+    .toc2      { margin-left: 20%;}
+    div.fig    { display:block; margin:0 auto; text-align:center; }
+    div.middle { margin-left: 20%; margin-right: 20%; text-align: justify; }
+    .figleft   {float: left; margin-left: 0%; margin-right: 1%;}
+    .figright  {float: right; margin-right: 0%; margin-left: 1%;}
+    .pagenum   {display:inline; font-size: 70%; font-style:normal;
+               margin: 0; padding: 0; position: absolute; right: 1%;
+               text-align: right;}
+
+
+    pre        { font-style: italic; font-size: 90%; margin-left: 10%;}
+    
