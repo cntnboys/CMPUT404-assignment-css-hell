@@ -29,4 +29,11 @@ Cameron Alexander contributed to these files/documents
 Part 1 Description
 ===================
 
+Maincss.cc is my css file I applied to the 3 Html pages.
 
+1. I modified the background to look like a peice of paper from an old scroll or book.
+2. I changed the font-style of the paragraphs to be oblique 
+3. I made every first letter of each paragraph to be bigger and red. 
+4. I downloaded a special font tft and made my headers a unique cursive writing font. 
+5. I added an image of an old book into each html becuase there werent any pictures and modified it to have a border and placed it.
+6. Used some css from one of the html files for block quotes and introduction stuff

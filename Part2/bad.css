@@ -1,0 +1,50 @@
+body { background: url(Build.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; margin:5%; text-align:justify }
+/* http://css-tricks.com/perfect-full-page-background-image/ */
+
+.Headings {
+  font-size: 200%;
+  font-style: italic;
+  padding-bottom: 1em;
+}
+
+.Information {
+  font-size: 100%
+  padding-left: 20px;
+  padding-bottom: 1em;
+
+}
+
+.pic {
+float: left;
+border: 2px solid;
+left: 30%;
+}
+
+
+.pointitem{
+
+margin: 0;
+padding: 10px;
+padding-bottom: 1em;
+}
+
+.container{
+
+border: 2px solid black;
+width: 100%;
+padding-left: 2em;
+padding-right: 2em;
+
+
+}
+
+.title{
+
+font-size: 300%
+font-weight: bold;
+
+}
