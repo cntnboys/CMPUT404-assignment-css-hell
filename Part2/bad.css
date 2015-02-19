@@ -1,50 +1,42 @@
-body { background: url(Build.jpg) no-repeat center center fixed; 
+body { background: url(tye.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; margin:5%; text-align:justify }
 /* http://css-tricks.com/perfect-full-page-background-image/ */
 
+
+H1{
+
+font-size: 400%;
+text-align: center;
+color: red;
+
+
+}
+
 .Headings {
-  font-size: 200%;
-  font-style: italic;
-  padding-bottom: 1em;
+  font-size: 300%;
+  color: green;
+  text-align: center;
 }
 
 .Information {
   font-size: 100%
-  padding-left: 20px;
-  padding-bottom: 1em;
-
+  text-align: center; 
+  color: yellow;
+  font-size: 300%;
+  font-style: italic;
 }
 
 .pic {
-float: left;
-border: 2px solid;
-left: 30%;
+float: center;
 }
 
 
-.pointitem{
+.table {
 
-margin: 0;
-padding: 10px;
-padding-bottom: 1em;
-}
-
-.container{
-
-border: 2px solid black;
-width: 100%;
-padding-left: 2em;
-padding-right: 2em;
-
-
-}
-
-.title{
-
-font-size: 300%
-font-weight: bold;
+color: blue;
+text-align: center;
 
 }
