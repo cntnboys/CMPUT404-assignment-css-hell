@@ -37,3 +37,11 @@ Maincss.cc is my css file I applied to the 3 Html pages.
 4. I downloaded a special font tft and made my headers a unique cursive writing font. 
 5. I added an image of an old book into each html becuase there werent any pictures and modified it to have a border and placed it.
 6. Used some css from one of the html files for block quotes and introduction stuff
+
+Sources
+
+/* http://css-tricks.com/perfect-full-page-background-image/ */
+/* http://www.w3schools.com/cssref/sel_firstletter.asp */
+/*http://www.1001freefonts.com/precious.font  Applied to all headers even know only H6 there*/
+/* http://www.w3schools.com/css/css_image_gallery.asp */
+Jungle HTML css
