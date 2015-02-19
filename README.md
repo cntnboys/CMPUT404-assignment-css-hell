@@ -45,3 +45,6 @@ Sources
 /*http://www.1001freefonts.com/precious.font  Applied to all headers even know only H6 there*/
 /* http://www.w3schools.com/css/css_image_gallery.asp */
 Jungle HTML css
+
+Part 2 Sources
+My 410 project profile page.
